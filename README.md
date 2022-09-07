@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProjectSkuLL
-- 👀 I make unique anddser friendly layouts using Html,css and js(currently learning js or you could say that i am beginner)
+- 👀 I make unique and user friendly layouts using Html,css and js(currently learning js or you could say that i am beginner)
 - and i am looking forward to learn from the community :).
 - My goal is to become a full stack web developer.
 - you can contact me on sankalpch007@gmail.com.
